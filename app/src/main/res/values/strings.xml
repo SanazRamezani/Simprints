@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simprints</string>
+
+    <string name="relentless_commitment_to_impact">Relentless Commitment to Impact</string>
+    <string name="robust_as_fudge">Robust as Fudge</string>
+    <string name="be_surprisingly_bold">Be Surprisingly Bold</string>
+    <string name="get_back_up">Get Back Up</string>
+    <string name="make_it_happen">Make it Happen</string>
+    <string name="dont_be_a_jerk">Don\'t be a Jerk</string>
+    <string name="confront_the_grey">Confront the Grey</string>
+    <string name="laugh_together_grow_together">Laugh Together, Grow Together</string>
+
+    <string name="show_prioritized_values">Simprints Prioritized Values</string>
+
+</resources>
